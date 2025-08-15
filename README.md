@@ -281,7 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rajesh Kumar**
 - GitHub: [@rajeshsahan507](https://github.com/rajeshsahan507)
-- Twitter: [@skyscan](https://twitter.com/skyscan)
+- Twitter: [@KRajesh507](https://twitter.com/KRajesh507)
 
 ## 🌟 Acknowledgments
 
