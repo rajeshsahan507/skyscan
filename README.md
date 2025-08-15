@@ -102,19 +102,19 @@ urllib3>=1.26.0
 
 ```bash
 # Basic scan
-python skeescan.py target.com
+python skyscan.py target.com
 
 # Exclude dead subdomains
-python skeescan.py target.com --exclude-dead
+python skyscan.py target.com --exclude-dead
 
 # Exclude 404 responses
-python skeescan.py target.com --exclude-404
+python skyscan.py target.com --exclude-404
 
 # Ultra-fast mode
-python skeescan.py target.com --fast
+python skyscan.py target.com --fast
 
 # Complete scan with all filters
-python skeescan.py target.com --exclude-dead --exclude-404 --fast
+python skyscan.py target.com --exclude-dead --exclude-404 --fast
 ```
 
 ### Advanced Options
@@ -134,16 +134,16 @@ python skeescan.py target.com --exclude-dead --exclude-404 --fast
 
 ```bash
 # Fast scan with only alive domains
-python skeescan.py tesla.com --exclude-dead --fast
+python skyscan.py tesla.com --exclude-dead --fast
 
 # Maximum speed, skip web checks
-python skeescan.py target.com --fast --skip-web
+python skyscan.py target.com --fast --skip-web
 
 # Custom threading for large scans
-python skeescan.py target.com --threads 200 --timeout 1
+python skyscan.py target.com --threads 200 --timeout 1
 
 # Use specific API config
-python skeescan.py target.com --config my_apis.json
+python skyscan.py target.com --config my_apis.json
 ```
 
 ## 🔑 API Configuration
@@ -227,7 +227,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/skeescan.git
+git clone https://github.com/rajeshsahan507/skyscan.git
 
 # Create a branch
 git checkout -b feature/amazing-feature
@@ -279,7 +279,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Rajesh Sahan**
+**Rajesh Kumar**
 - GitHub: [@rajeshsahan507](https://github.com/rajeshsahan507)
 - Twitter: [@skyscan](https://twitter.com/skyscan)
 
@@ -303,7 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💬 Support
 
 For support, issues, or feature requests:
-- Open an [Issue](https://github.com/rajeshsahan507/skeescan/issues)
+- Open an [Issue](https://github.com/rajeshsahan507/skyscan/issues)
 - Contact via Twitter: [@skyscan](https://twitter.com/skyscan)
 
 ---
