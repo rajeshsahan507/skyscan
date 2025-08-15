@@ -96,7 +96,7 @@ urllib3>=1.26.0
 ```
 
 ## 🚀 Usage
-
+<img width="1316" height="620" alt="image" src="https://github.com/user-attachments/assets/fe37e627-f979-4d45-b7da-87ffe5b4f845" />
 ### Basic Commands
 
 ```bash
