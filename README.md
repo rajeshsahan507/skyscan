@@ -1,6 +1,6 @@
 # skyscan
 SKYSCAN - Advanced passive subdomain discovery tool with 20+ sources, multi-threading, and smart filtering. Perfect for bug bounty hunters and penetration testers.
-# 🔍 SKEESCAN - Advanced Subdomain Discovery Tool
+# 🔍 SKYSCAN - Advanced Subdomain Discovery Tool
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="Version">
@@ -79,14 +79,14 @@ SKYSCAN - Advanced passive subdomain discovery tool with 20+ sources, multi-thre
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/rajeshsahan507/skeescan.git
-cd skeescan
+git clone https://github.com/rajeshsahan507/skyscan.git
+cd skyscan
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the tool
-python skeescan.py example.com
+python skyscan.py example.com
 ```
 
 ### Dependencies
