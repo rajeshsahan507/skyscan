@@ -1,5 +1,5 @@
 SKYSCAN - Advanced passive subdomain discovery tool with 20+ sources, multi-threading, and smart filtering. Perfect for bug bounty hunters and penetration testers.
-# 🔍 SKYSCAN - Advanced Subdomain Discovery Tool
+# 🔍 SKYSCAN - Advanced Passive Subdomain Discovery Tool
 <img width="1119" height="645" alt="image" src="https://github.com/user-attachments/assets/965bb7bc-27a4-4afe-b7fc-e07128aefabd" />
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="Version">
