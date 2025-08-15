@@ -33,7 +33,7 @@ SKYSCAN - Advanced passive subdomain discovery tool with 20+ sources, multi-thre
 - [Legal Disclaimer](#-legal-disclaimer)
 
 ## ✨ Features
-
+<img width="1366" height="706" alt="image" src="https://github.com/user-attachments/assets/6155be1c-09ac-4275-8df2-b35e794812b8" />
 ### 🔥 Core Capabilities
 - **20+ Passive Data Sources** - Integrates free and premium APIs
 - **ASN Information Gathering** - Organization, IP ranges, and geographic data
@@ -178,6 +178,7 @@ python skyscan.py target.com --config my_apis.json
 
 ### File Outputs
 The tool generates three output files:
+<img width="1366" height="706" alt="image" src="https://github.com/user-attachments/assets/f060e947-ae4c-4465-a222-56953f8a87df" />
 
 1. **`target_com_recon.json`** - Complete JSON report with all data
 2. **`target_com_subdomains.txt`** - Plain list of discovered subdomains
